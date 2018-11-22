@@ -20,6 +20,7 @@
         
         dependencies {
             classpath "io.qameta.allure:allure-gradle:2.3"
+            //classpath "io.qameta.allure:allure-gradle:2.5" -- have also tried this version
         }
     }
     
