@@ -6,7 +6,8 @@
 ### Error
 
     tests.CucumberJvmTest > initializationError FAILED
-        cucumber.runtime.CucumberException: Couldn't load plugin class: io.qameta.allure.cucumberjvm.AllureCucumberJvm. It does not implement cucumber.api.Plugin
+        cucumber.runtime.CucumberException: Couldn't load plugin class: 
+        io.qameta.allure.cucumberjvm.AllureCucumberJvm. It does not implement cucumber.api.Plugin
         
 ### build.gradle
 
