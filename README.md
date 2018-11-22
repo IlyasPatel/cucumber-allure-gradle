@@ -33,6 +33,11 @@
         jcenter()
     }
     
+    allure {
+        version = '2.6.0'
+        aspectjweaver = true
+    }
+    
     dependencies {
         compile 'io.cucumber:gherkin:5.1.0'
         compile 'io.cucumber:cucumber-core:4.2.0'
@@ -47,3 +52,4 @@
     test {
         useJUnit()
     }
+
