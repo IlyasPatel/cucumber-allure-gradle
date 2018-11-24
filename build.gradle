@@ -45,5 +45,8 @@ dependencies {
 }
 
 test {
-    useTestNG()
+    useTestNG() {
+        suites "cucumber-allure-gradle/testng.xml"
+
+    }
 }

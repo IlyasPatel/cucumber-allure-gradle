@@ -7,6 +7,50 @@ public class Steps {
 
     @Given("^I eat an orange$")
     public void i_eat_an_orange() {
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
+        System.out.println("---------===");
         attachment("orange");
     }
 

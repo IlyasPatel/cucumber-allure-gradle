@@ -9,7 +9,7 @@
 
     <test name="Example Test" preserve-order="false">
         <classes>
-            <class name="CucumberJvmTest"/>
+            <class name="tests.CucumberJvmTest"/>
         </classes>
     </test>
 
